@@ -92,38 +92,40 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
  </section>
   </div>
 &nbsp;
-<h2> &ensp;How fucked are you? The Tool </h2>
+<h2> &ensp;How 'at risk' are you? The Tool </h2>
   <section class="container">
     <div class="row">
       <figure class="col-sm-6">
 	      <p style="font-size:20px;" >
-	      <a href="https://www.w3schools.com/" target="_blank"> Chinese provinces heatmap </p>
+	      <a href="animation.html" target="_blank"> Chinese provinces heatmap </p>
+
 	      <img src="heatmap.jpeg"></a>
       </figure>
 
 
       <figure class="col-sm-6">
 	      <p style="font-size:20px;">
-	      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"> Flights from Wuhan 
+	      <a href="international_flow.html" target="_blank"> Flights from Wuhan 
 	      </p>
-	      <img src="flights_from_wuhan.png"></a>
+	      <img src="international flights2.png"></a>
       </figure>
     </div>
     <div class="row">
       <figure class="col-sm-6">
         <p style="font-size:20px;"> 
-	 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"> Demographics Data </p>
-	<img src="demographics graph.jpeg"></a>
+	 <a href="domestic_flow.html" target="_blank"> Flow of people within China </p>
+	<img src="flights_from_wuhan.png"></a>
       </figure>
       <figure class="col-sm-6">
-        <p>antiques</p>
-               <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/antique.jpg">
+        <p style="font-size:20px;">
+	<a href="demography_data.html" target="_blank">Demography Data</p>
+	<img src="demographics graph.jpeg"></a>
       </figure>
     </div>
   </section>
   <footer class="container">
     <div class="row">
-      <p class="col-sm-4"> &trade; peEnius </p>
+      <p class="col-sm-4"> &trade; Group 06 </p>
       <ul class="col-sm-8">
         <li class="col-sm-1">   <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/twitter.svg"> </li>
         <li class="col-sm-1">   <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/facebook.svg"> </li>

@@ -1,0 +1,35 @@
+﻿Province,Country,Lat,Long,pop,Population(million)
+Anhui,Mainland China,31.82571,117.2264,6254,62.54
+Beijing,Mainland China,40.18238,116.4142,2170,21.7
+Chongqing,Mainland China,30.05718,107.874,3048,30.48
+Fujian,Mainland China,26.07783,117.9895,3911,39.11
+Gansu,Mainland China,36.0611,103.8343,2625,26.25
+Guangdong,Mainland China,23.33841,113.422,11169,111.69
+Guangxi,Mainland China,23.82908,108.7881,4885,48.85
+Guizhou,Mainland China,26.81536,106.8748,3580,35.8
+Hainan,Mainland China,19.19673,109.7455,925,9.25
+Hebei,Mainland China,38.0428,114.5149,7520,75.2
+Heilongjiang,Mainland China,47.862,127.7622,3788,37.88
+Henan,Mainland China,33.88202,113.614,9559,95.59
+Hubei,Mainland China,30.97564,112.2707,5902,59.02
+Hunan,Mainland China,27.61041,111.7088,6860,68.6
+Inner Mongolia,Mainland China,44.09448,113.9456,2528,25.28
+Jiangsu,Mainland China,32.97027,119.464,8029,80.29
+Jiangxi,Mainland China,27.61401,115.7221,4622,46.22
+Jilin,Mainland China,43.66657,126.1917,2717,27.17
+Liaoning,Mainland China,41.29284,122.6086,4370,43.7
+Ningxia,Mainland China,37.26923,106.1655,681,6.81
+Qinghai,Mainland China,35.65945,96.02564,600,6
+Shaanxi,Mainland China,35.19165,108.8701,3700,37
+Shandong,Mainland China,36.34377,118.1529,10005,100.05
+Shanghai,Mainland China,31.20327,121.4554,2418,24.18
+Shanxi,Mainland China,37.57769,112.2922,3840,38.4
+Sichuan,Mainland China,30.61714,102.7103,8302,83.02
+Tianjin,Mainland China,39.29362,117.333,1560,15.6
+Tibet,Mainland China,30.1534,88.7879,340,3.4
+Xinjiang,Mainland China,41.11981,85.17822,2444,24.44
+Yunnan,Mainland China,24.97411,101.4868,4800,48
+Zhejiang,Mainland China,29.18251,120.0985,5657,56.57
+Taiwan,,23.69,120.96,2369,23.69
+Hongkong,,22.32,114.17,743,7.43
+Macou,,22.2,113.54,63,0.63

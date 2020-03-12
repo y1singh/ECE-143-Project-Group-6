@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+  <title>Corona Virus</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+<header class="container">
+  <div class="row">
+    <h1 class="col-sm-4"> ECE 143 : Group 6</h1>
+    <!-- <nav class="col-sm-8 text-right">
+	    <p><a href='about.html'> About </a></p>
+      
+    </nav>  -->
+  </div>
+  
+</header>
+  <section class="jumbotron">
+    <div class = "container">
+      <div class = "row text-center">
+	      <section id="section01" class="demo">
+		      <h2>Coronavirus: How threatened are you?</h2>
+		      <a href="#section02"></a>
+	      </section>
+      </div>
+    </div>
+  </section>
+
+
+  <h2 align="center">&emsp; <u>
+		<a href="china_comparison_data.html" title="Open in new tab" target="_blank">
+			Risk Assessment across China and Rest of the World:
+		</a>	
+			</u> </h2>
+  <h3 align="center"> &ensp;&emsp; Cases Outside China </h3>
+  
+  <div class="w3-container">
+<div align="center" class="w3-third">
+	<ul style="font-size:20px;">
+		&nbsp;
+		<li>Total reported cases to date- 37825</li>
+	  	&nbsp;
+		<li>Exponential growth with growth factor 1.15</li>
+		&nbsp;
+		<li>At this rate total number of cases will cross 1B in 2 months</li>
+  	</ul>
+</div>
+
+<div class="w3-third w3-center">
+	
+	<a href="china_comparison_data.html" title="Open in new tab" target="_blank">
+		<img src="cases outside china2.png" heigth="270" width="600">
+	</a>
+</div>
+  </div>
+
+
+  <div class="w3-container">
+  <h3 align="center"> &ensp;&emsp; Cases In China </h3>
+<div align="center" class="w3-third">
+	<ul style="font-size:20px;">
+		&nbsp;
+		<li>Total reported cases to date- 80757</li>
+	  	&nbsp;
+		<li>A few months ahead of rest of the world</li>
+		&nbsp;
+		<li>Rate drops off after a while</li>
+  	</ul>
+</div>
+
+<div class="w3-third w3-center">
+	<a href="china_comparison_data.html" title="Open in new tab" target="_blank">
+		<img src="cases inside china4.png" heigth="270" width="600">
+	</a>
+</div>
+  </div>
+&nbsp;
+<h2 align="center">&ensp;<u>Data Visualizations</u></h2><br>
+  <section class="container">
+    <div class="row">
+      <figure class="col-sm-6">
+	      <p style="font-size:20px;" >
+	      <a href="animation.html" title="Open in new tab" target="_blank">1. Outbreak animation across China </p>
+
+	      <img src="heatmap.jpeg"></a>
+      </figure>
+
+      <figure class="col-sm-6">
+	      <p style="font-size:20px;">
+	      <a href="international_flow.html" title="Open in new tab" target="_blank">2. International connectivity from Wuhan 
+	      </p>
+	      <img src="international flights2.PNG"></a>
+      </figure>
+    </div>
+    <div class="row">
+      <figure class="col-sm-6">
+        <p style="font-size:20px;"> 
+	 <a href="domestic_flow.html" title="Open in new tab" target="_blank">3. Domestic connectivity from Wuhan</p>
+	<img src="flights_from_wuhan.PNG"></a>
+      </figure>
+      <figure class="col-sm-6">
+        <p style="font-size:20px;">
+	<a href="demography_data.html" title="Open in new tab" target="_blank">4. Impact on different age groups and gender</p>
+	<img src="demographics graph.jpeg"></a>
+      </figure>
+    </div>
+  </section>
+  <footer class="container">
+    <div class="row">
+      <p class="col-sm-4"> &trade; Group 06 </p>
+      <ul class="col-sm-8">
+      </ul>
+    </div>
+  </footer>
+
+	<script>
+		$(function() {
+			$('a[href*=#]').on('click', function(e) {
+				e.preventDefault();
+				$('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+			});
+		});
+	</script>
+</body>
+</html>
+

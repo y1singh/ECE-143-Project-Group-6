@@ -17,4 +17,4 @@ Datasets used:-
 5. Flight data from Wuhan - https://www.yicai.com/news/100478393.html
 
 
-Link to the website:- http://ec2-54-193-91-190.us-west-1.compute.amazonaws.com/outputs/index.html
+Link to the website:- http://ec2-54-193-91-190.us-west-1.compute.amazonaws.com/outputs/html/index.html

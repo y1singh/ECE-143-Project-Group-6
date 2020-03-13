@@ -8,5 +8,11 @@ To run the project, just open project_code-checkpoint.ipynb as jupyter notebook 
 
 Datasets used:-
 
-1. https://github.com/CSSEGISandData/COVID-19
-2. https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1449891965
+1. Total confirmed, deaths, recovered cases - https://github.com/CSSEGISandData/COVID-19
+2. Demographic data - https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1449891965
+3. Chinese population data - http://www.chamiji.com/chinaprovincepopulation
+4. China railways data - https://www.travelchinaguide.com/china-trains/wuhan-schedule.htm
+5. Flight data from Wuhan - https://www.yicai.com/news/100478393.html
+
+
+Link to the website:- http://ec2-54-193-91-190.us-west-1.compute.amazonaws.com/outputs/index.html

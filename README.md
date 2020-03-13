@@ -4,8 +4,10 @@ This repository has the project for ECE-143 WI20 quarter at UCSD. It contains al
 The data and assets folders contain all the data used in the code.
 The output folder has all the generated outputs as html as well as the code for the webpage.
 
+## How to execute the code:-
 To run the project, just open project_code.ipynb as jupyter notebook and run all cells.
 
+## How to view output:-
 To view the output, just go to the outputs/html/ and open index.html file in any web browser.
 
 Datasets used:-

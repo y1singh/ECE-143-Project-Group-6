@@ -4,7 +4,7 @@ This repository has the project for ECE-143 WI20 quarter at UCSD. It contains al
 The data and assets folders contain all the data used in the code.
 The output folder has all the generated outputs as html as well as the code for the webpage.
 
-To run the project, just open project_code-checkpoint.ipynb as jupyter notebook and run all cells.
+To run the project, just open project_code.ipynb as jupyter notebook and run all cells.
 
 Datasets used:-
 

@@ -10,7 +10,7 @@ To run the project, just open project_code.ipynb as jupyter notebook and run all
 ## How to view output:-
 To view the output, just go to the outputs/html/ and open index.html file in any web browser.
 
-Datasets used:-
+## Datasets used:-
 
 1. Total confirmed, deaths, recovered cases - https://github.com/CSSEGISandData/COVID-19
 2. Demographic data - https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1449891965
@@ -19,4 +19,5 @@ Datasets used:-
 5. Flight data from Wuhan - https://www.yicai.com/news/100478393.html
 
 
-Link to the website:- http://ec2-54-193-91-190.us-west-1.compute.amazonaws.com/outputs/html/index.html
+## Link to the website:- 
+http://ec2-54-193-91-190.us-west-1.compute.amazonaws.com/outputs/html/index.html

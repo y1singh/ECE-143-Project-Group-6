@@ -6,6 +6,8 @@ The output folder has all the generated outputs as html as well as the code for 
 
 To run the project, just open project_code.ipynb as jupyter notebook and run all cells.
 
+To view the output, just go to the outputs/html/ and open index.html file in any web browser.
+
 Datasets used:-
 
 1. Total confirmed, deaths, recovered cases - https://github.com/CSSEGISandData/COVID-19

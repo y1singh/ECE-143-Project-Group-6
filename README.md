@@ -21,3 +21,9 @@ To view the output, just go to the outputs/html/ and open index.html file in any
 
 ## Link to the website:- 
 http://ec2-54-193-91-190.us-west-1.compute.amazonaws.com/outputs/html/index.html
+
+## Members-
+  1. Di Guan
+  2. Song Wang
+  3. Vinamr Madan
+  4. Yashdeep Singh
